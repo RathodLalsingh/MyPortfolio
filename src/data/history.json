@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Learnt DSA with the help of courses on",
+    "organisation": "geeksforgeeks and udemy",
+    "startDate": "jan, 2020",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "I have expertise and  proficiency in microsoft excel  ",
+    "organisation": "and microsoft  slide macking design powerpoint",
+    "startDate": "Aug, 2020",
+    "endDate": "Aug, 2022",
+    "experiences": [],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Technical skills:HTML",
+    "organisation": "Javascript Reactjs HTML CSS Nodejs Express MangoDb Github Data structure and algorithms C++ C DDMS Oops",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2023",
+    "experiences": [],
+    "imageSrc": "history/netflix.png"
+  }
+]

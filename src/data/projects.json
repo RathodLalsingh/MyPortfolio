@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce App",
+    "imageSrc": "projects/project.png",
+    "description": "Our React-based e-commerce app offers a sleek interface, simplified categories, and easy navigation. Sign in securely using Firebase, explore real-time product updates, and shop confidently with Stripe payments. Stay stylish with UrbanStyle – your go-to fashion destination Lists offer an approach for presenting a large set of items or options to users in a way that allows them to fulfill their tasks efficiently. The list design pattern supports users by guiding them through categories to their desired content",
+    "skills": ["React", "Redux","Cart UI"],
+    "demo": "https://commercejs.com/docs/community/creating-a-cart-with-react-js/",
+    "source": "https://github.com/RathodLalsingh?tab=repositories"
+  },
+  {
+    "title": "Cryptocurrency Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "An app to keep a watch on big volume trades of cryptocurrecies on different exchanges by sending alerts via a Telegram Bot. Crypto Labs - Cryptocurrency tracker with React JS + TradingView Widget  The Cryptocurrency tracker is a cross platform application , which tracks the crypto currency ",
+    "skills": ["React", "React api", "hooks"],
+    "demo": "https://reactjsexample.com/all-in-one-cryptocurrency-dashboard-using-react-redux-and-rapidapi/",
+    "source": "https://github.com/RathodLalsingh?tab=repositories"
+  },
+  {
+    "title": "Mern blog app",
+    "imageSrc": "projects/project.png",
+    "description": "This is mern stack blog application with all the sorts  90% of  features like saving the articles, creating it, liking it , sharing it with friends, and commenting on it etc Secure 70 t0 80 percent  user authentication system to protect your blogs  It provides a platform for users to howcasing admin-written blogs90 % accuracy safe authenfication.create, read, update, and delete blog posts ",
+    "skills": ["React", "RestApi","Express", "Node"],
+    "demo": "https://itnext.io/blog-app-using-mern-stack-b0b4d69d7ea1",
+    "source": "https://github.com/RathodLalsingh?tab=repositories"
+  }
+]
