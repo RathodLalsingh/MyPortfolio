@@ -1,6 +1,6 @@
 [Link](https://cosmic-gnome-aa27e3.netlify.app/)
 
-[Link2](https://cosmic-gnome-aa27e3.netlify.app/)
+[Link2](https://benevolent-cendol-02f869.netlify.app/)
 
 
 # React + Vite
